@@ -18,7 +18,7 @@ English
 
 1.Data Collection: This game does not collect, store, or share any personal information about users (such as name, email, IP address, etc.). This game does not integrate any third-party advertising or analytics SDKs
 
-2.Local Online Mode: This game supports local online play over a LAN. During online play, the game only transmits necessary synchronization data (such as player positions and control commands) within the local network. This data is not uploaded to our servers via the internet and is only used to ensure smooth gameplay.
+2.Local Online game: This game supports local online play over a LAN. During online play, the game only transmits necessary synchronization data (such as player positions and control commands) within the local network. This data is not uploaded to our servers via the internet and is only used to ensure smooth gameplay.
 
 3.Third-party links: The game includes buttons that link to YouTube channels. Clicking on them will open an external browser. YouTube's privacy policy is managed independently by their platform. Please refer to YouTube's official instructions.
 
