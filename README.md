@@ -1,6 +1,6 @@
 # msc-privacy
 
-第一版第二补丁
+第一版第三补丁
 
 条款发布日期：2026年11月14日
 
@@ -8,7 +8,7 @@
 
 第一版发布日期：2026年11月14日
 
-Chinese
+Chinese（中文）
 
 1. 数据收集： 本游戏不收集、不存储、不共享任何用户的个人身份信息（如姓名、邮箱、IP地址等）。本游戏没有集成任何第三方广告或分析SDK。
 
@@ -18,7 +18,7 @@ Chinese
 
 4. 联系方式： 如果您对本隐私政策有任何疑问，请联系：jiasas888@outlook.com。
 
-English
+English（英语）
 
 1.Data Collection: This game does not collect, store, or share any personal information about users (such as name, email, IP address, etc.). This game does not integrate any third-party advertising or analytics SDKs
 
